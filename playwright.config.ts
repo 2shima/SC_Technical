@@ -6,7 +6,7 @@ dotenv.config();
 const timeInMinutes: number = 60 * 1000;
 export default defineConfig({
   use: {
-    headless: false,
+    headless: true,
     trace: 'on-first-retry',
   },
   testDir: './src/tests',
