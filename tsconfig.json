@@ -1,0 +1,24 @@
+{
+    "compilerOptions": {
+        "baseUrl": "./src",
+        "paths": {
+            "@uiActions/*": [
+                "safetychain/actions/*"
+            ],
+            "@uiConstants/*": [
+                "safetychain/constants/*"
+            ],
+            "@testData/*": [
+                "resources/data/*"
+            ],
+            "@apiActions/*": [
+                "api/actions/*"
+            ],
+            "@apiConstants/*": [
+                "api/constants/*"
+            ]
+        },
+        "allowSyntheticDefaultImports": true,
+        "resolveJsonModule": true
+    }
+}

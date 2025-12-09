@@ -1,0 +1,10 @@
+{
+    "businessEmail": "user@example.com",
+    "firstName": "John",
+    "lastName": "Doe",
+    "companyName": "Example Corp",
+    "jobTitle": "Plant Manager",
+    "phoneNumber": "123-456-7890",
+    "state": "Texas",
+    "revenue": "<$100M revenue"
+}
